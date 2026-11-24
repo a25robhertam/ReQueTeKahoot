@@ -1,0 +1,157 @@
+{
+  "id": "programacion_csharp",
+  "titulo": "PROGRAMACIÓN EN C#",
+  "tiempoPorPregunta": 25,
+  "preguntas": [
+    {
+      "enunciado": "¿Qué palabra clave declara una clase en C#?",
+      "respuestas": [
+        "class",
+        "structclass",
+        "type",
+        "object"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué tipo representa un número entero de 32 bits con signo?",
+      "respuestas": [
+        "float",
+        "int",
+        "decimal",
+        "bool"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué instrucción escribe una línea en la consola?",
+      "respuestas": [
+        "System.out.println()",
+        "Console.WriteLine()",
+        "printline()",
+        "echo()"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué símbolo termina normalmente una instrucción en C#?",
+      "respuestas": [
+        "Dos puntos",
+        "Punto y coma",
+        "Coma",
+        "Barra"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué palabra clave permite crear una nueva instancia de una clase?",
+      "respuestas": [
+        "make",
+        "new",
+        "create",
+        "this"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué operador comprueba si dos valores son iguales?",
+      "respuestas": [
+        "=",
+        "==",
+        "=>",
+        "==="
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué palabra clave permite definir una propiedad o método accesible desde otras clases?",
+      "respuestas": [
+        "internal",
+        "private",
+        "public",
+        "sealed"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Qué bloque se utiliza para controlar una excepción?",
+      "respuestas": [
+        "try / catch",
+        "if / then",
+        "for / next",
+        "switch / case"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué tipo de colección genérica permite almacenar una lista de elementos?",
+      "respuestas": [
+        "Dictionary<TKey, TValue>",
+        "List<T>",
+        "Tuple<T>",
+        "Task<T>"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué palabra clave marca un método que no devuelve ningún valor?",
+      "respuestas": [
+        "null",
+        "empty",
+        "void",
+        "return"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Qué palabra clave se usa para heredar los miembros accesibles de una clase base al definir una clase derivada?",
+      "respuestas": [
+        "extends",
+        "inherits",
+        "base",
+        "Ninguna: se usa :"
+      ],
+      "indiceCorrecto": 3
+    },
+    {
+      "enunciado": "¿Qué método convierte un entero a una cadena de texto?",
+      "respuestas": [
+        "ToString()",
+        "AsText()",
+        "ToChar()",
+        "ParseInt()"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué estructura permite recorrer elementos mediante foreach?",
+      "respuestas": [
+        "foreach (var elemento in lista)",
+        "for each elemento of lista",
+        "foreach elemento : lista",
+        "iterate(lista)"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué símbolo se utiliza para acceder a un miembro de un objeto?",
+      "respuestas": [
+        "#",
+        ".",
+        "@",
+        "::"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué valor tiene por defecto un campo bool no inicializado en una clase?",
+      "respuestas": [
+        "true",
+        "false",
+        "null",
+        "1"
+      ],
+      "indiceCorrecto": 1
+    }
+  ]
+}

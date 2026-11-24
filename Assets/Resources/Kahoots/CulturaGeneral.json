@@ -1,0 +1,157 @@
+{
+  "id": "cultura_general",
+  "titulo": "CULTURA GENERAL",
+  "tiempoPorPregunta": 20,
+  "preguntas": [
+    {
+      "enunciado": "¿Cuál es la capital de Australia?",
+      "respuestas": [
+        "Sídney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Qué planeta es el más cercano al Sol?",
+      "respuestas": [
+        "Venus",
+        "Mercurio",
+        "Marte",
+        "Tierra"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Quién escribió Don Quijote de la Mancha?",
+      "respuestas": [
+        "Lope de Vega",
+        "Miguel de Cervantes",
+        "Federico García Lorca",
+        "Benito Pérez Galdós"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Cuál es el océano más extenso de la Tierra?",
+      "respuestas": [
+        "Atlántico",
+        "Índico",
+        "Ártico",
+        "Pacífico"
+      ],
+      "indiceCorrecto": 3
+    },
+    {
+      "enunciado": "¿Qué elemento químico tiene el símbolo Au?",
+      "respuestas": [
+        "Plata",
+        "Oro",
+        "Aluminio",
+        "Argón"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿En qué país se encuentra la ciudad de Kioto?",
+      "respuestas": [
+        "China",
+        "Corea del Sur",
+        "Japón",
+        "Tailandia"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Cuántos lados tiene un hexágono?",
+      "respuestas": [
+        "Cinco",
+        "Seis",
+        "Siete",
+        "Ocho"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué órgano del cuerpo humano bombea la sangre?",
+      "respuestas": [
+        "Pulmón",
+        "Hígado",
+        "Corazón",
+        "Riñón"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Cuál es el idioma oficial de Brasil?",
+      "respuestas": [
+        "Español",
+        "Portugués",
+        "Francés",
+        "Italiano"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+      "respuestas": [
+        "Oxígeno",
+        "Nitrógeno",
+        "Dióxido de carbono",
+        "Hidrógeno"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué instrumento se utiliza para medir la temperatura?",
+      "respuestas": [
+        "Barómetro",
+        "Termómetro",
+        "Anemómetro",
+        "Higrómetro"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿En qué continente se encuentra Egipto?",
+      "respuestas": [
+        "Asia",
+        "Europa",
+        "África",
+        "Oceanía"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Cuánto es 9 multiplicado por 7?",
+      "respuestas": [
+        "56",
+        "63",
+        "72",
+        "67"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué pintor realizó Las meninas?",
+      "respuestas": [
+        "Pablo Picasso",
+        "Francisco de Goya",
+        "Diego Velázquez",
+        "Salvador Dalí"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Cuál es la unidad de medida de la resistencia eléctrica en el SI?",
+      "respuestas": [
+        "Voltio",
+        "Amperio",
+        "Vatio",
+        "Ohmio"
+      ],
+      "indiceCorrecto": 3
+    }
+  ]
+}

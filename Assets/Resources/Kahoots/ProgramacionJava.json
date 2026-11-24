@@ -1,0 +1,157 @@
+{
+  "id": "programacion_java",
+  "titulo": "PROGRAMACIÓN JAVA",
+  "tiempoPorPregunta": 25,
+  "preguntas": [
+    {
+      "enunciado": "¿Qué método es el punto de entrada habitual de una aplicación Java?",
+      "respuestas": [
+        "start()",
+        "main()",
+        "run()",
+        "execute()"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué palabra clave se usa para crear una clase en Java?",
+      "respuestas": [
+        "struct",
+        "class",
+        "define",
+        "object"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué tipo primitivo almacena valores verdadero o falso?",
+      "respuestas": [
+        "int",
+        "char",
+        "boolean",
+        "String"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Con qué operador se compara la igualdad de dos valores primitivos?",
+      "respuestas": [
+        "=",
+        "==",
+        "!=",
+        "==="
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué estructura repite instrucciones mientras se cumpla una condición?",
+      "respuestas": [
+        "if",
+        "switch",
+        "while",
+        "return"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Cuál es el índice del primer elemento de un array en Java?",
+      "respuestas": [
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué instrucción muestra texto y añade un salto de línea en consola?",
+      "respuestas": [
+        "System.out.println()",
+        "System.in.read()",
+        "Console.WriteLine()",
+        "print.console()"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué palabra clave permite heredar de una clase?",
+      "respuestas": [
+        "implements",
+        "extends",
+        "inherits",
+        "superclass"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué palabra clave impide reasignar una variable?",
+      "respuestas": [
+        "static",
+        "const",
+        "final",
+        "fixed"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Qué método compara el contenido de dos objetos String?",
+      "respuestas": [
+        "==",
+        "compare()",
+        "equals()",
+        "same()"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Qué modificador limita el acceso a un miembro a su propia clase?",
+      "respuestas": [
+        "public",
+        "private",
+        "protected",
+        "static"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué bloque se utiliza para capturar una excepción?",
+      "respuestas": [
+        "if",
+        "catch",
+        "finally",
+        "throw"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué tipo de dato es String en Java?",
+      "respuestas": [
+        "Un tipo primitivo",
+        "Una interfaz",
+        "Una clase",
+        "Un operador"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Qué palabra clave se utiliza para crear una instancia con un constructor?",
+      "respuestas": [
+        "new",
+        "create",
+        "instance",
+        "alloc"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué propiedad indica la longitud de un array llamado datos?",
+      "respuestas": [
+        "datos.size()",
+        "datos.length",
+        "datos.count",
+        "datos.length()"
+      ],
+      "indiceCorrecto": 1
+    }
+  ]
+}

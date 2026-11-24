@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 000dcdc4922692244ad5c5b8c8b2494c
+  - enabled: 1
+    path: Assets/Scenes/SelectorCuestionario.unity
+    guid: 56578123b5a0ee44286cc10ef2cf3318
+  - enabled: 1
+    path: Assets/Scenes/Partida.unity
+    guid: 6130c0704a4536c408f62e05ff9f7490
+  - enabled: 1
+    path: Assets/Scenes/HallFama.unity
+    guid: cb5601edc53b1a94ba2df11fe113dfd9
+  - enabled: 1
+    path: Assets/Scenes/SelectorInforme.unity
+    guid: 715c97b253ee40449874e3ef2ff92af7
+  - enabled: 1
+    path: Assets/Scenes/VisorInforme.unity
+    guid: 2d1f5edff9f54784b8924a4be0104ec8
+  - enabled: 1
+    path: Assets/Scenes/CreadorCuestionario.unity
+    guid: 0c5ac31f682cada49b05d3a1839d5160
+  - enabled: 1
+    path: Assets/Scenes/VersionCreditos.unity
+    guid: 80a8c37a7e8ee574abb605b99c3a9869
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

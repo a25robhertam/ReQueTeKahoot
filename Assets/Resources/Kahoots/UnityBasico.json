@@ -1,0 +1,157 @@
+{
+  "id": "unity_basico",
+  "titulo": "UNITY BÁSICO",
+  "tiempoPorPregunta": 20,
+  "preguntas": [
+    {
+      "enunciado": "¿Qué objeto de Unity se utiliza como contenedor básico de componentes?",
+      "respuestas": [
+        "GameObject",
+        "PrefabAsset",
+        "SceneView",
+        "Shader"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué componente permite controlar la posición, rotación y escala?",
+      "respuestas": [
+        "Canvas",
+        "Transform",
+        "Collider",
+        "Animator"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué método de MonoBehaviour se ejecuta normalmente una vez por fotograma si está habilitado?",
+      "respuestas": [
+        "Start()",
+        "Awake()",
+        "Update()",
+        "OnDestroy()"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Qué método se emplea habitualmente para lógica física a intervalos fijos?",
+      "respuestas": [
+        "FixedUpdate()",
+        "LateUpdate()",
+        "OnGUI()",
+        "Reset()"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué componente permite mostrar interfaces en pantalla?",
+      "respuestas": [
+        "Canvas",
+        "Rigidbody",
+        "AudioSource",
+        "Light"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Cuál es el lenguaje principal de scripting de Unity?",
+      "respuestas": [
+        "Java",
+        "Python",
+        "C#",
+        "C++"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Qué recurso reutilizable permite guardar la configuración de un GameObject?",
+      "respuestas": [
+        "Prefab",
+        "Material",
+        "Animation Clip",
+        "Lightmap"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué clase se utiliza habitualmente para cargar escenas por nombre?",
+      "respuestas": [
+        "SceneManager",
+        "InputSystem",
+        "SpriteRenderer",
+        "Time"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué componente muestra una imagen 2D en una interfaz Canvas?",
+      "respuestas": [
+        "Image",
+        "MeshRenderer",
+        "Terrain",
+        "Camera"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué componente se usa para detectar colisiones físicas en 2D mediante una forma?",
+      "respuestas": [
+        "Collider2D",
+        "CanvasScaler",
+        "AudioListener",
+        "RectTransform"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué propiedad ofrece el tiempo transcurrido desde el último fotograma?",
+      "respuestas": [
+        "Time.timeScale",
+        "Time.deltaTime",
+        "Time.fixedTime",
+        "Time.frameCount"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué componente de UI permite introducir texto editable con TextMeshPro?",
+      "respuestas": [
+        "TMP_InputField",
+        "TMP_Text",
+        "RawImage",
+        "Slider"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué clase proporciona una ruta persistente para guardar archivos?",
+      "respuestas": [
+        "Resources",
+        "Application",
+        "GameObject",
+        "Scene"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué componente permite reproducir sonidos en Unity?",
+      "respuestas": [
+        "AudioSource",
+        "AudioListener",
+        "AudioMixerGroup",
+        "AudioClip"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué método permite destruir un GameObject durante la ejecución?",
+      "respuestas": [
+        "Remove()",
+        "Delete()",
+        "Destroy()",
+        "Dispose()"
+      ],
+      "indiceCorrecto": 2
+    }
+  ]
+}
