@@ -1,0 +1,157 @@
+{
+  "id": "pokemon_basico",
+  "titulo": "POKÉMON BÁSICO",
+  "tiempoPorPregunta": 20,
+  "preguntas": [
+    {
+      "enunciado": "¿De qué tipo es Pikachu?",
+      "respuestas": [
+        "Fuego",
+        "Eléctrico",
+        "Agua",
+        "Planta"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Cuál es la primera evolución de Charmander?",
+      "respuestas": [
+        "Charizard",
+        "Charmeleon",
+        "Cyndaquil",
+        "Flareon"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué objeto se utiliza normalmente para capturar Pokémon salvajes?",
+      "respuestas": [
+        "Poción",
+        "Poké Ball",
+        "Revivir",
+        "Cuerda Huida"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué tipo es eficaz contra Pokémon de tipo Agua?",
+      "respuestas": [
+        "Fuego",
+        "Planta",
+        "Roca",
+        "Acero"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué Pokémon es el número 001 de la Pokédex Nacional?",
+      "respuestas": [
+        "Pikachu",
+        "Bulbasaur",
+        "Squirtle",
+        "Charmander"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué Pokémon evoluciona a Blastoise?",
+      "respuestas": [
+        "Wartortle",
+        "Psyduck",
+        "Totodile",
+        "Mudkip"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Cuál es el tipo principal de Squirtle?",
+      "respuestas": [
+        "Hielo",
+        "Agua",
+        "Dragón",
+        "Normal"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué personaje es conocido como el Profesor Pokémon de Kanto?",
+      "respuestas": [
+        "Profesor Abedul",
+        "Profesor Elm",
+        "Profesor Oak",
+        "Profesor Serbal"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿Qué evolución de Eevee es de tipo Fuego?",
+      "respuestas": [
+        "Jolteon",
+        "Flareon",
+        "Vaporeon",
+        "Espeon"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué estado alterado impide atacar a veces por no poder moverse?",
+      "respuestas": [
+        "Parálisis",
+        "Envenenamiento",
+        "Quemadura",
+        "Congelación"
+      ],
+      "indiceCorrecto": 0
+    },
+    {
+      "enunciado": "¿Qué tipo es inmune a los ataques de tipo Normal?",
+      "respuestas": [
+        "Siniestro",
+        "Fantasma",
+        "Psíquico",
+        "Lucha"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué Pokémon legendario aparece en la portada de Pokémon Edición Roja?",
+      "respuestas": [
+        "Mewtwo",
+        "Zapdos",
+        "Charizard",
+        "Moltres"
+      ],
+      "indiceCorrecto": 2
+    },
+    {
+      "enunciado": "¿A qué Pokémon evoluciona Magikarp?",
+      "respuestas": [
+        "Milotic",
+        "Gyarados",
+        "Lapras",
+        "Seaking"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué objeto suele restaurar PS a un Pokémon?",
+      "respuestas": [
+        "Antídoto",
+        "Poción",
+        "Repelente",
+        "Piedra Trueno"
+      ],
+      "indiceCorrecto": 1
+    },
+    {
+      "enunciado": "¿Qué tipo es eficaz contra Pokémon de tipo Dragón?",
+      "respuestas": [
+        "Eléctrico",
+        "Fuego",
+        "Hada",
+        "Agua"
+      ],
+      "indiceCorrecto": 2
+    }
+  ]
+}
